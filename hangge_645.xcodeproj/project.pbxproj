@@ -19,6 +19,7 @@
 		5A7BD5CF1C0328B000C3F9CF /* SQLTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A7BD5CC1C0328B000C3F9CF /* SQLTable.swift */; };
 		5A7BD5D01C0328B000C3F9CF /* String-Extras.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A7BD5CD1C0328B000C3F9CF /* String-Extras.swift */; };
 		5A7BD5D41C03295E00C3F9CF /* data.db in Resources */ = {isa = PBXBuildFile; fileRef = 5A7BD5D31C03295E00C3F9CF /* data.db */; };
+		64F521901D2F3A2200245FB4 /* chazhaon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64F5218F1D2F3A2200245FB4 /* chazhaon.swift */; };
 		64FF3DE81D2C932A0082037D /* chazhao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64FF3DE71D2C932A0082037D /* chazhao.swift */; };
 		64FF3DEA1D2CAA400082037D /* shanchu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64FF3DE91D2CAA400082037D /* shanchu.swift */; };
 /* End PBXBuildFile section */
@@ -60,6 +61,7 @@
 		5A7BD5CC1C0328B000C3F9CF /* SQLTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SQLTable.swift; sourceTree = "<group>"; };
 		5A7BD5CD1C0328B000C3F9CF /* String-Extras.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String-Extras.swift"; sourceTree = "<group>"; };
 		5A7BD5D31C03295E00C3F9CF /* data.db */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = data.db; sourceTree = "<group>"; };
+		64F5218F1D2F3A2200245FB4 /* chazhaon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = chazhaon.swift; sourceTree = "<group>"; };
 		64FF3DE71D2C932A0082037D /* chazhao.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = chazhao.swift; sourceTree = "<group>"; };
 		64FF3DE91D2CAA400082037D /* shanchu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = shanchu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -125,6 +127,7 @@
 				5A7BD5C41C03280400C3F9CF /* hangge_645-Bridging-Header.h */,
 				64FF3DE71D2C932A0082037D /* chazhao.swift */,
 				64FF3DE91D2CAA400082037D /* shanchu.swift */,
+				64F5218F1D2F3A2200245FB4 /* chazhaon.swift */,
 			);
 			path = hangge_645;
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 				64FF3DE81D2C932A0082037D /* chazhao.swift in Sources */,
 				5A7BD5CF1C0328B000C3F9CF /* SQLTable.swift in Sources */,
 				5A7BD5991C03278D00C3F9CF /* ViewController.swift in Sources */,
+				64F521901D2F3A2200245FB4 /* chazhaon.swift in Sources */,
 				64FF3DEA1D2CAA400082037D /* shanchu.swift in Sources */,
 				5A7BD5971C03278D00C3F9CF /* AppDelegate.swift in Sources */,
 			);

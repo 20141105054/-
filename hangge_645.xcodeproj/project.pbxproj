@@ -448,7 +448,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = hangge_645/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hangge.hangge-645";
+				PRODUCT_BUNDLE_IDENTIFIER = "-319324030-qq.com.hangge-645";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "/Users/20141105054szy/Desktop/hangge_645/hangge_645/hangge_645-Bridging-Header.h";
 				SWIFT_OBJC_INTERFACE_HEADER_NAME = "hangge_645-swift.h";
@@ -464,7 +464,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = hangge_645/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hangge.hangge-645";
+				PRODUCT_BUNDLE_IDENTIFIER = "-319324030-qq.com.hangge-645";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "/Users/20141105054szy/Desktop/hangge_645/hangge_645/hangge_645-Bridging-Header.h";
 				SWIFT_OBJC_INTERFACE_HEADER_NAME = "hangge_645-swift.h";
